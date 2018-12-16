@@ -1,0 +1,44 @@
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\bin\Debug\FashionShow.exe.config
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\obj\Debug\FashionShow.csprojResolveAssemblyReference.cache
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\obj\Debug\FashionShow.Properties.Resources.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\obj\Debug\FashionShow.csproj.GenerateResource.Cache
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\bin\Debug\FashionShow.exe
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\bin\Debug\FashionShow.pdb
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\bin\Debug\FluentNHibernate.dll
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\bin\Debug\Iesi.Collections.dll
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\bin\Debug\NHibernate.dll
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\bin\Debug\FluentNHibernate.pdb
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\bin\Debug\FluentNHibernate.xml
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\bin\Debug\Iesi.Collections.xml
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\bin\Debug\NHibernate.xml
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\obj\Debug\FashionShow.exe
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Cetvrta faza\Fashion_Show\Fashion_Show\FashionShow\FashionShow\obj\Debug\FashionShow.pdb
+C:\Users\win 8\Desktop\New folder\FashionShow\bin\Debug\FashionShow.exe.config
+C:\Users\win 8\Desktop\New folder\FashionShow\obj\Debug\FashionShow.exe
+C:\Users\win 8\Desktop\New folder\FashionShow\obj\Debug\FashionShow.pdb
+C:\Users\win 8\Desktop\New folder\FashionShow\bin\Debug\FashionShow.exe
+C:\Users\win 8\Desktop\New folder\FashionShow\bin\Debug\FashionShow.pdb
+C:\Users\win 8\Desktop\New folder\FashionShow\bin\Debug\FluentNHibernate.dll
+C:\Users\win 8\Desktop\New folder\FashionShow\bin\Debug\Iesi.Collections.dll
+C:\Users\win 8\Desktop\New folder\FashionShow\bin\Debug\NHibernate.dll
+C:\Users\win 8\Desktop\New folder\FashionShow\bin\Debug\FluentNHibernate.pdb
+C:\Users\win 8\Desktop\New folder\FashionShow\bin\Debug\FluentNHibernate.xml
+C:\Users\win 8\Desktop\New folder\FashionShow\bin\Debug\Iesi.Collections.xml
+C:\Users\win 8\Desktop\New folder\FashionShow\bin\Debug\NHibernate.xml
+C:\Users\win 8\Desktop\New folder\FashionShow\obj\Debug\FashionShow.csprojResolveAssemblyReference.cache
+C:\Users\win 8\Desktop\New folder\FashionShow\obj\Debug\FashionShow.Properties.Resources.resources
+C:\Users\win 8\Desktop\New folder\FashionShow\obj\Debug\FashionShow.csproj.GenerateResource.Cache
+G:\Test\FashionShow\bin\Debug\FashionShow.dll.config
+G:\Test\FashionShow\bin\Debug\FashionShow.dll
+G:\Test\FashionShow\bin\Debug\FashionShow.pdb
+G:\Test\FashionShow\bin\Debug\FluentNHibernate.dll
+G:\Test\FashionShow\bin\Debug\Iesi.Collections.dll
+G:\Test\FashionShow\bin\Debug\NHibernate.dll
+G:\Test\FashionShow\bin\Debug\FluentNHibernate.pdb
+G:\Test\FashionShow\bin\Debug\FluentNHibernate.xml
+G:\Test\FashionShow\bin\Debug\Iesi.Collections.xml
+G:\Test\FashionShow\bin\Debug\NHibernate.xml
+G:\Test\FashionShow\obj\Debug\FashionShow.Properties.Resources.resources
+G:\Test\FashionShow\obj\Debug\FashionShow.csproj.GenerateResource.Cache
+G:\Test\FashionShow\obj\Debug\FashionShow.dll
+G:\Test\FashionShow\obj\Debug\FashionShow.pdb

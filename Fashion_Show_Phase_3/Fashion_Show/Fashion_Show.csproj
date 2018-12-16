@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{531ABC5D-B3A0-4E77-9972-03EB0FE44270}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Fashion_Show</RootNamespace>
+    <AssemblyName>Fashion_Show</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FluentNHibernate, Version=2.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.2.0.3.0\lib\net40\FluentNHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.0.4000\lib\net40\Iesi.Collections.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NHibernate, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.4.0.0.4000\lib\net40\NHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NHibernate.Linq, Version=1.1.0.1001, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.Linq.1.0\lib\NHibernate.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataLayer.cs" />
+    <Compile Include="Entiteti\Agencija.cs" />
+    <Compile Include="Entiteti\Agencijski_.Maneken.cs" />
+    <Compile Include="Entiteti\Casopic.cs" />
+    <Compile Include="Entiteti\Kreator.cs" />
+    <Compile Include="Entiteti\Maneken.cs" />
+    <Compile Include="Entiteti\Modna_Revija.cs" />
+    <Compile Include="Entiteti\Nastupa.cs" />
+    <Compile Include="Entiteti\Osoba.cs" />
+    <Compile Include="Entiteti\Prikazuje_Na.cs" />
+    <Compile Include="Entiteti\Specijalan_Gost.cs" />
+    <Compile Include="Entiteti\Zemlja.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Agencija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Agencija.Designer.cs">
+      <DependentUpon>Form_Agencija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_AgencijskiManeken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_AgencijskiManeken.Designer.cs">
+      <DependentUpon>Form_AgencijskiManeken.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_AzurirajSpecijalnogGosta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_AzurirajSpecijalnogGosta.Designer.cs">
+      <DependentUpon>Form_AzurirajSpecijalnogGosta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Casopisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Casopisi.Designer.cs">
+      <DependentUpon>Form_Casopisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_CasopisiManekena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_CasopisiManekena.Designer.cs">
+      <DependentUpon>Form_CasopisiManekena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_DetaljiAgencije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_DetaljiAgencije.Designer.cs">
+      <DependentUpon>Form_DetaljiAgencije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_DetaljiNastupaManekena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_DetaljiNastupaManekena.Designer.cs">
+      <DependentUpon>Form_DetaljiNastupaManekena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_AzurirajAgencijskogManekena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_AzurirajAgencijskogManekena.Designer.cs">
+      <DependentUpon>Form_AzurirajAgencijskogManekena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_AzurirajKreatora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_AzurirajKreatora.Designer.cs">
+      <DependentUpon>Form_AzurirajKreatora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Azuriraj_Agenciju.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Azuriraj_Agenciju.Designer.cs">
+      <DependentUpon>Form_Azuriraj_Agenciju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Azuriraj_Modnu_Reviju.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Azuriraj_Modnu_Reviju.Designer.cs">
+      <DependentUpon>Form_Azuriraj_Modnu_Reviju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_DetaljiManekeniAgencijecs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_DetaljiManekeniAgencijecs.Designer.cs">
+      <DependentUpon>Form_DetaljiManekeniAgencijecs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_DetaljiNastupaRevije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_DetaljiNastupaRevije.Designer.cs">
+      <DependentUpon>Form_DetaljiNastupaRevije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_DetaljiPrikazaZaReviju.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_DetaljiPrikazaZaReviju.Designer.cs">
+      <DependentUpon>Form_DetaljiPrikazaZaReviju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_DetaljiPrikazaZaKreatora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_DetaljiPrikazaZaKreatora.Designer.cs">
+      <DependentUpon>Form_DetaljiPrikazaZaKreatora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Dodaj_Prikazuje_Na.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Dodaj_Prikazuje_Na.Designer.cs">
+      <DependentUpon>Form_Dodaj_Prikazuje_Na.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Kreator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Kreator.Designer.cs">
+      <DependentUpon>Form_Kreator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Dodaj_Nastupa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Dodaj_Nastupa.Designer.cs">
+      <DependentUpon>Form_Dodaj_Nastupa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Main.Designer.cs">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Maneken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Maneken.Designer.cs">
+      <DependentUpon>Form_Maneken.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Modna_Revija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Modna_Revija.Designer.cs">
+      <DependentUpon>Form_Modna_Revija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Nastupa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Nastupa.Designer.cs">
+      <DependentUpon>Form_Nastupa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Osoba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Osoba.Designer.cs">
+      <DependentUpon>Form_Osoba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Prikazuje_Na.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Prikazuje_Na.Designer.cs">
+      <DependentUpon>Form_Prikazuje_Na.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Specijalan_Gost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Specijalan_Gost.Designer.cs">
+      <DependentUpon>Form_Specijalan_Gost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Zemlje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Zemlje.Designer.cs">
+      <DependentUpon>Form_Zemlje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form_Zemlje_IAgencije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form_Zemlje_IAgencije.Designer.cs">
+      <DependentUpon>Form_Zemlje_IAgencije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapiranja\AgencijaMapiranja.cs" />
+    <Compile Include="Mapiranja\Agencijski_ManekenMapiranja.cs" />
+    <Compile Include="Mapiranja\CasopisMapiranja.cs" />
+    <Compile Include="Mapiranja\KreatorMapiranja.cs" />
+    <Compile Include="Mapiranja\ManekenMapiranja.cs" />
+    <Compile Include="Mapiranja\Modna_RevijaMapiranja.cs" />
+    <Compile Include="Mapiranja\NastupaMapiranja.cs" />
+    <Compile Include="Mapiranja\OsobaMapiranja.cs" />
+    <Compile Include="Mapiranja\Prikazuje_NaMapiranja.cs" />
+    <Compile Include="Mapiranja\Specijalan_GostMapiranja.cs" />
+    <Compile Include="Mapiranja\ZemljaMapiranja.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Agencija.resx">
+      <DependentUpon>Form_Agencija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_AgencijskiManeken.resx">
+      <DependentUpon>Form_AgencijskiManeken.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_AzurirajSpecijalnogGosta.resx">
+      <DependentUpon>Form_AzurirajSpecijalnogGosta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Casopisi.resx">
+      <DependentUpon>Form_Casopisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_CasopisiManekena.resx">
+      <DependentUpon>Form_CasopisiManekena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_DetaljiAgencije.resx">
+      <DependentUpon>Form_DetaljiAgencije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_DetaljiNastupaManekena.resx">
+      <DependentUpon>Form_DetaljiNastupaManekena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_AzurirajAgencijskogManekena.resx">
+      <DependentUpon>Form_AzurirajAgencijskogManekena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_AzurirajKreatora.resx">
+      <DependentUpon>Form_AzurirajKreatora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Azuriraj_Agenciju.resx">
+      <DependentUpon>Form_Azuriraj_Agenciju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Azuriraj_Modnu_Reviju.resx">
+      <DependentUpon>Form_Azuriraj_Modnu_Reviju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_DetaljiManekeniAgencijecs.resx">
+      <DependentUpon>Form_DetaljiManekeniAgencijecs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_DetaljiNastupaRevije.resx">
+      <DependentUpon>Form_DetaljiNastupaRevije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_DetaljiPrikazaZaReviju.resx">
+      <DependentUpon>Form_DetaljiPrikazaZaReviju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_DetaljiPrikazaZaKreatora.resx">
+      <DependentUpon>Form_DetaljiPrikazaZaKreatora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Dodaj_Prikazuje_Na.resx">
+      <DependentUpon>Form_Dodaj_Prikazuje_Na.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Kreator.resx">
+      <DependentUpon>Form_Kreator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Dodaj_Nastupa.resx">
+      <DependentUpon>Form_Dodaj_Nastupa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Main.resx">
+      <DependentUpon>Form_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Maneken.resx">
+      <DependentUpon>Form_Maneken.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Modna_Revija.resx">
+      <DependentUpon>Form_Modna_Revija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Nastupa.resx">
+      <DependentUpon>Form_Nastupa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Osoba.resx">
+      <DependentUpon>Form_Osoba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Prikazuje_Na.resx">
+      <DependentUpon>Form_Prikazuje_Na.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Specijalan_Gost.resx">
+      <DependentUpon>Form_Specijalan_Gost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Zemlje.resx">
+      <DependentUpon>Form_Zemlje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form_Zemlje_IAgencije.resx">
+      <DependentUpon>Form_Zemlje_IAgencije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

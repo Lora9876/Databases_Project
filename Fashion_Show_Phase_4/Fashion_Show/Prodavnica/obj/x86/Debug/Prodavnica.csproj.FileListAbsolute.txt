@@ -1,0 +1,71 @@
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\Prodavnica.exe.config
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\Prodavnica.exe
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\FluentNHibernate.dll
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\Iesi.Collections.dll
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\NHibernate.dll
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\NHibernate.Linq.dll
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\FluentNHibernate.xml
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\Iesi.Collections.xml
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\NHibernate.xml
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\NHibernate.Linq.xml
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\obj\x86\Debug\Prodavnica.csprojResolveAssemblyReference.cache
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\obj\x86\Debug\Prodavnica.Form1.resources
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\obj\x86\Debug\Prodavnica.Properties.Resources.resources
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\obj\x86\Debug\Prodavnica.csproj.GenerateResource.Cache
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\obj\x86\Debug\Prodavnica.exe
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\obj\x86\Debug\Prodavnica.pdb
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\Prodavnica.dll.config
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\Prodavnica.dll
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\FluentNHibernate.dll
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\Iesi.Collections.dll
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\NHibernate.dll
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\NHibernate.Linq.dll
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\FluentNHibernate.xml
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\Iesi.Collections.xml
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\NHibernate.xml
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\NHibernate.Linq.xml
+C:\Users\Bogda\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.csprojResolveAssemblyReference.cache
+C:\Users\Bogda\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.Form1.resources
+C:\Users\Bogda\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.Properties.Resources.resources
+C:\Users\Bogda\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.csproj.GenerateResource.Cache
+C:\Users\Bogda\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.dll
+C:\Users\Bogda\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.pdb
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\bin\Debug\Prodavnica.dll.config
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\bin\Debug\Prodavnica.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\bin\Debug\Prodavnica.pdb
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\bin\Debug\FluentNHibernate.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\bin\Debug\Iesi.Collections.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\bin\Debug\NHibernate.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\bin\Debug\NHibernate.Linq.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\bin\Debug\FluentNHibernate.pdb
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\bin\Debug\FluentNHibernate.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\bin\Debug\Iesi.Collections.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\bin\Debug\NHibernate.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\bin\Debug\NHibernate.Linq.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\obj\x86\Debug\Prodavnica.csprojResolveAssemblyReference.cache
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\obj\x86\Debug\Prodavnica.Form1.resources
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\obj\x86\Debug\Prodavnica.Properties.Resources.resources
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\obj\x86\Debug\Prodavnica.csproj.GenerateResource.Cache
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\obj\x86\Debug\Prodavnica.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Prodavnica\obj\x86\Debug\Prodavnica.pdb
+C:\Users\win 8\Desktop\Test\Prodavnica\bin\Debug\Prodavnica.dll.config
+C:\Users\win 8\Desktop\Test\Prodavnica\bin\Debug\Prodavnica.dll
+C:\Users\win 8\Desktop\Test\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\Users\win 8\Desktop\Test\Prodavnica\bin\Debug\FluentNHibernate.dll
+C:\Users\win 8\Desktop\Test\Prodavnica\bin\Debug\Iesi.Collections.dll
+C:\Users\win 8\Desktop\Test\Prodavnica\bin\Debug\NHibernate.dll
+C:\Users\win 8\Desktop\Test\Prodavnica\bin\Debug\NHibernate.Linq.dll
+C:\Users\win 8\Desktop\Test\Prodavnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\win 8\Desktop\Test\Prodavnica\bin\Debug\FluentNHibernate.xml
+C:\Users\win 8\Desktop\Test\Prodavnica\bin\Debug\Iesi.Collections.xml
+C:\Users\win 8\Desktop\Test\Prodavnica\bin\Debug\NHibernate.xml
+C:\Users\win 8\Desktop\Test\Prodavnica\bin\Debug\NHibernate.Linq.xml
+C:\Users\win 8\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.Form1.resources
+C:\Users\win 8\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.Properties.Resources.resources
+C:\Users\win 8\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.csproj.GenerateResource.Cache
+C:\Users\win 8\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.dll
+C:\Users\win 8\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.pdb

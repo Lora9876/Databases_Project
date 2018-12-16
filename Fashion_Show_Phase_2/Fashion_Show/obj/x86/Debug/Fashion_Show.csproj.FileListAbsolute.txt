@@ -1,0 +1,16 @@
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Properties.Resources.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.csproj.GenerateResource.Cache
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Form1.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\Fashion_Show.exe
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\Fashion_Show.pdb
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\FluentNHibernate.dll
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\Iesi.Collections.dll
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\NHibernate.dll
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\FluentNHibernate.pdb
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\FluentNHibernate.xml
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\Iesi.Collections.xml
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\NHibernate.xml
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.exe
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.pdb
+C:\Users\LolaS\Desktop\New folder\Fashion_Show\obj\x86\Debug\Fashion_Show.exe
+C:\Users\LolaS\Desktop\New folder\Fashion_Show\obj\x86\Debug\Fashion_Show.pdb

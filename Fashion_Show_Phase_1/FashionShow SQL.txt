@@ -1,0 +1,113 @@
+CREATE TABLE MODNA_REVIJA(
+Redni_Broj number(10) PRIMARY KEY,
+Naziv varchar(30) NOT NULL,
+Mesto_Odrzavanja varchar(30),
+Datum_Odrzavanja date,
+Vreme_Odrzavanja timestamp
+);
+
+CREATE TABLE MODNA_REVIJA_SA_JEDNIM_KREATOROM(
+Redni_Broj number(10) PRIMARY KEY,
+CONSTRAINT Redni_Broj_FK FOREIGN KEY(Redni_Broj) REFERENCES MODNA_REVIJA(Redni_Broj)
+);
+
+CREATE TABLE MODNA_REVIJA_SA_VISE_KREATORA(
+Ranije_Nastupali_Zajedno varchar(2) NOT NULL,
+Redni_Broj number(10) PRIMARY KEY
+CONSTRAINT Redni_Broj_FK FOREIGN KEY(Redni_Broj) REFERENCES MODNA_REVIJA(Redni_Broj)
+);
+
+CREATE TABLE OSOBA(
+Maticni_Broj number(13) PRIMARY KEY,
+Licno_Ime varchar(20) NOT NULL,
+Prezime varchar(20) NOT NULL,
+Datum_Rodjenja  date,
+Pol varchar(1) NOT NULL CHECK (Pol IN ('M', 'Ž'))
+);
+
+CREATE TABLE KREATOR(
+Zemlja_Porekla varchar(30) NOT NULL,
+Naziv_Modne_Kuce varchar(30) NULL,
+Maticni_Broj number(13) PRIMARY KEY,
+CONSTRAINT Maticni_Broj_FK FOREIGN KEY(Maticni_Broj) REFERENCES OSOBA(Maticni_Broj);
+);
+
+CREATE TABLE MANEKEN(
+Boja_Kose varchar(10),
+Boja_Ociju varchar(10),
+Visina number(3),
+Tezina  number(2),
+Konfekcijski_Broj number(2),
+Maticni_Broj number(13) PRIMARY KEY,
+CONSTRAINT Maticni_Broj_FK FOREIGN KEY(Maticni_Broj) REFERENCES OSOBA(Maticni_Broj);
+);
+
+CREATE TABLE SPECIJALAN_GOST(
+Zanimanje varchar(15) NOT NULL,
+Maticni_Broj number(13) PRIMARY KEY,
+CONSTRAINT Maticni_Broj_FK FOREIGN KEY(Maticni_Broj) REFERENCES MANEKEN(Maticni_Broj)
+);
+
+CREATE TABLE AGENCIJSKI_MANEKEN(
+Maticni_Broj number(13) PRIMARY KEY,
+PIB_Agencije number(5),
+CONSTRAINT Maticni_Broj_FK FOREIGN KEY(Maticni_Broj) REFERENCES MANEKEN(Maticni_Broj),
+CONSTRAINT PIB_Agencije_FK FOREIGN KEY(PIB_Agencije) REFERENCES AGENCIJA(PIB);
+);
+
+CREATE TABLE AGENCIJA(
+PIB number(5) PRIMARY KEY,
+Naziv varchar(30) NOT NULL,
+Datum_Osnivanja date,
+Sediste varchar(30) NOT NULL,
+Tip varchar(20)
+);
+
+CREATE TABLE INTERNACIONALNA_AGENCIJA(
+PIB number(5) PRIMARY KEY,
+CONSTRAINT PIB_FK FOREIGN KEY(PIB) REFERENCES AGENCIJA(PIB)
+);
+
+CREATE TABLE DOMACA_AGENCIJA(
+PIB number(5) PRIMARY KEY,
+CONSTRAINT PIB_FK FOREIGN KEY(PIB) REFERENCES AGENCIJA(PIB);
+);
+
+CREATE TABLE PRIKAZUJE_NA(
+Mbr_Kreatora number(13),
+Rbr_Revije number(10)
+CONSTRAINT PRIKAZUJE_NA_PK PRIMARY KEY (Mbr_Kreatora, Rbr_Revije),
+CONSTRAINT Mbr_Kreatora_FK FOREIGN KEY(Mbr_Kreatora) REFERENCES KREATOR(Maticni_Broj),
+CONSTRAINT Rbr_Revije_FK FOREIGN KEY(Rbr_Revije) REFERENCES MODNA_REVIJA(Redni_Broj)
+);
+
+CREATE TABLE NASTUPA(
+Mbr_Manekena number(13),
+Rbr_Revije number(10),
+CONSTRAINT NASTUPA_PK PRIMARY KEY (Mbr_Manekena, Rbr_Revije),
+CONSTRAINT Mbr_Manekena_FK FOREIGN KEY(Mbr_Manekena) REFERENCES MANEKEN(Maticni_Broj),
+CONSTRAINT Rbr_Revije_FK FOREIGN KEY(Rbr_Revije) REFERENCES MODNA_REVIJA(Redni_Broj)
+);
+
+CREATE TABLE CASOPIS(
+Casopis varchar(30) NOT NULL,
+Maticni_Broj number(30),
+CONSTRAINT CASOPIS_PK PRIMARY KEY (Casopis, Maticni_Broj),
+CONSTRAINT Maticni_Broj_FK FOREIGN KEY(Maticni_Broj) REFERENCES MANEKEN(Maticni_Broj)
+);
+
+CREATE TABLE ZEMLJA(
+Zemlja varchar(30) NOT NULL,
+PIB number (5),
+CONSTRAINT CASOPIS_PK PRIMARY KEY (Casopis, Maticni_Broj),
+CONSTRAINT PIB_FK FOREIGN KEY(PIB) REFERENCES INTERNACIONALNA_AGENCIJA(PIB)
+);
+
+
+
+
+
+
+
+
+

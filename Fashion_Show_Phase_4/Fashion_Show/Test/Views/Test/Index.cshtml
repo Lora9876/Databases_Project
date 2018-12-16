@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Vojnik";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section scripts{
+    <script type="text/javascript">
+        $(function()
+        {
+                $.getJSON('/api/vojnik', function(vojnici)
+                {
+                    $(vojnici).each(function(i, item)
+                    {
+                        $('#vojnici').append('<li>' + item.Naziv + '</li>');
+                    });
+                });
+        });
+    </script>
+}
+
+
+<div id="body">
+    <ul id="vojnici"></ul>
+</div>

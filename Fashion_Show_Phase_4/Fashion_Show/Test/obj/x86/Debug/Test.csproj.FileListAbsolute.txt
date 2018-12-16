@@ -1,0 +1,229 @@
+C:\Users\Bogda\Desktop\Test\Test\bin\Test.dll.config
+C:\Users\Bogda\Desktop\Test\Test\bin\Test.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Test.pdb
+C:\Users\Bogda\Desktop\Test\Test\bin\Antlr3.Runtime.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\EntityFramework.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Microsoft.Data.Edm.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Microsoft.Data.OData.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Newtonsoft.Json.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Net.Http.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Net.Http.WebRequest.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Spatial.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Helpers.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Http.OData.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Http.Tracing.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Mvc.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Optimization.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Providers.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Razor.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.WebPages.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\WebGrease.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\FluentNHibernate.pdb
+C:\Users\Bogda\Desktop\Test\Test\bin\FluentNHibernate.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\Iesi.Collections.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\NHibernate.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\NHibernate.Linq.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\EntityFramework.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\Newtonsoft.Json.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Net.Http.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Net.Http.WebRequest.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Helpers.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Mvc.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Razor.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.WebPages.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Http.Tracing.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Http.OData.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\Microsoft.Data.Edm.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\Microsoft.Data.OData.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Spatial.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\de\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\es\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\fr\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\it\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ja\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ko\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ru\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bogda\Desktop\Test\Test\obj\x86\Debug\Test.dll
+C:\Users\Bogda\Desktop\Test\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bogda\Desktop\Test\Test\bin\Prodavnica.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Prodavnica.pdb
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Test.dll.config
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Test.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Test.pdb
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Antlr3.Runtime.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\EntityFramework.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Microsoft.Data.Edm.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Microsoft.Data.OData.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Newtonsoft.Json.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Prodavnica.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Net.Http.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Net.Http.WebRequest.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Spatial.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.Helpers.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.Http.OData.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.Http.Tracing.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.Mvc.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.Optimization.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.Providers.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.Razor.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.WebPages.Deployment.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.WebPages.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.WebPages.Razor.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\WebGrease.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Prodavnica.pdb
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\FluentNHibernate.pdb
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\FluentNHibernate.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Iesi.Collections.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\NHibernate.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\NHibernate.Linq.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\EntityFramework.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Newtonsoft.Json.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Net.Http.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Net.Http.WebRequest.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.Helpers.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.Mvc.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.Razor.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.WebPages.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.WebPages.Deployment.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.WebPages.Razor.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.Http.Tracing.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Web.Http.OData.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Microsoft.Data.Edm.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\Microsoft.Data.OData.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\System.Spatial.xml
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\de\Microsoft.Data.Edm.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\es\Microsoft.Data.Edm.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\it\Microsoft.Data.Edm.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\de\Microsoft.Data.OData.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\es\Microsoft.Data.OData.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\fr\Microsoft.Data.OData.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\it\Microsoft.Data.OData.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\ja\Microsoft.Data.OData.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\ko\Microsoft.Data.OData.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\ru\Microsoft.Data.OData.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\de\System.Spatial.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\es\System.Spatial.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\fr\System.Spatial.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\it\System.Spatial.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\ja\System.Spatial.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\ko\System.Spatial.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\ru\System.Spatial.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\zh-Hans\System.Spatial.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\bin\zh-Hant\System.Spatial.resources.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\obj\x86\Debug\Test.dll
+D:\D particija\Nastava\Sistemi baza podataka\kurs 2015-2016\Laboratorijske vezbe\WebAPI\Test\Test\obj\x86\Debug\Test.pdb
+C:\Users\win 8\Desktop\Test\Test\bin\Test.dll.config
+C:\Users\win 8\Desktop\Test\Test\bin\Test.dll
+C:\Users\win 8\Desktop\Test\Test\bin\Test.pdb
+C:\Users\win 8\Desktop\Test\Test\bin\Antlr3.Runtime.dll
+C:\Users\win 8\Desktop\Test\Test\bin\EntityFramework.dll
+C:\Users\win 8\Desktop\Test\Test\bin\Microsoft.Data.Edm.dll
+C:\Users\win 8\Desktop\Test\Test\bin\Microsoft.Data.OData.dll
+C:\Users\win 8\Desktop\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win 8\Desktop\Test\Test\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\win 8\Desktop\Test\Test\bin\Newtonsoft.Json.dll
+C:\Users\win 8\Desktop\Test\Test\bin\Prodavnica.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Net.Http.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Net.Http.Formatting.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Net.Http.WebRequest.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Spatial.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Helpers.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Http.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Http.OData.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Http.Tracing.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Http.WebHost.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Mvc.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Optimization.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Providers.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Razor.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.WebPages.dll
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\win 8\Desktop\Test\Test\bin\WebGrease.dll
+C:\Users\win 8\Desktop\Test\Test\bin\Prodavnica.pdb
+C:\Users\win 8\Desktop\Test\Test\bin\EntityFramework.xml
+C:\Users\win 8\Desktop\Test\Test\bin\Newtonsoft.Json.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Net.Http.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Net.Http.Formatting.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Net.Http.WebRequest.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Helpers.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Http.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Http.WebHost.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Mvc.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Razor.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.WebPages.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Http.Tracing.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Web.Http.OData.xml
+C:\Users\win 8\Desktop\Test\Test\bin\Microsoft.Data.Edm.xml
+C:\Users\win 8\Desktop\Test\Test\bin\Microsoft.Data.OData.xml
+C:\Users\win 8\Desktop\Test\Test\bin\System.Spatial.xml
+C:\Users\win 8\Desktop\Test\Test\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\de\System.Spatial.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\es\System.Spatial.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\fr\System.Spatial.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\it\System.Spatial.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\ja\System.Spatial.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\ko\System.Spatial.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\ru\System.Spatial.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\win 8\Desktop\Test\Test\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\win 8\Desktop\Test\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\win 8\Desktop\Test\Test\obj\x86\Debug\Test.dll
+C:\Users\win 8\Desktop\Test\Test\obj\x86\Debug\Test.pdb

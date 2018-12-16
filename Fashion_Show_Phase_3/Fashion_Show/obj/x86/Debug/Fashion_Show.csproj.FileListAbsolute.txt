@@ -1,0 +1,56 @@
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Properties.Resources.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.csproj.GenerateResource.Cache
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Form1.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\Fashion_Show.exe
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\Fashion_Show.pdb
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\FluentNHibernate.dll
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\Iesi.Collections.dll
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\NHibernate.dll
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\FluentNHibernate.pdb
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\FluentNHibernate.xml
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\Iesi.Collections.xml
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\bin\Debug\NHibernate.xml
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.exe
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Druga faza-SBP\Fashion Show\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.pdb
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.exe
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.pdb
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\bin\Debug\Fashion_Show.exe
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\bin\Debug\Fashion_Show.pdb
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\bin\Debug\FluentNHibernate.dll
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\bin\Debug\Iesi.Collections.dll
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\bin\Debug\NHibernate.dll
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\bin\Debug\FluentNHibernate.pdb
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\bin\Debug\FluentNHibernate.xml
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\bin\Debug\Iesi.Collections.xml
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\bin\Debug\NHibernate.xml
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Form1.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Main.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Modna_Revija.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Properties.Resources.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.csproj.GenerateResource.Cache
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Agencija.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Zemlje_IAgencije.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Nastupa.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Dodaj_Nastupa.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Azuriraj_Modnu_Reviju.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_DetaljiManekeniAgencijecs.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_AgencijskiManeken.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Azuriraj_Agenciju.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Osoba.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\bin\Debug\Fashion_Show.exe.config
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Kreator.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_CasopisiManekena.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_AzurirajKreatora.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_DetaljiPrikazaZaKreatora.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Specijalan_Gost.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_DetaljiNastupaManekena.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_AzurirajAgencijskogManekena.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_DetaljiNastupaRevije.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_DetaljiPrikazaZaReviju.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_AzurirajSpecijalnogGosta.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Dodaj_Prikazuje_Na.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Prikazuje_Na.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Maneken.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Zemlje.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_Casopisi.resources
+C:\Users\LolaS\Desktop\SistemiBazaPodataka\Moj Projekat\Treca faza - SBP\Fashion_Show\Fashion_Show\obj\x86\Debug\Fashion_Show.Forme.Form_DetaljiAgencije.resources
